@@ -8,13 +8,27 @@
   --accent: #7c3aed;
   --accent-bg: rgba(124, 58, 237, 0.1);
   --accent-border: rgba(124, 58, 237, 0.5);
-  --success: #15803d;
-  --success-bg: rgba(21, 128, 61, 0.12);
-  --warning: #b45309;
-  --warning-bg: rgba(180, 83, 9, 0.14);
-  --danger: #b91c1c;
-  --danger-bg: rgba(185, 28, 28, 0.12);
+  --success: #0ca30c;
+  --success-bg: rgba(12, 163, 12, 0.12);
+  --warning: #b8790f;
+  --warning-bg: rgba(250, 178, 25, 0.18);
+  --danger: #d03b3b;
+  --danger-bg: rgba(208, 59, 59, 0.12);
   --shadow: rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+
+  --chart-series-1: #2a78d6;
+  --chart-series-2: #1baf7a;
+  --chart-series-3: #eda100;
+  --chart-series-4: #008300;
+  --chart-series-5: #4a3aa7;
+  --chart-series-6: #e34948;
+  --chart-series-7: #e87ba4;
+  --chart-series-8: #eb6834;
+  --chart-good: #0ca30c;
+  --chart-warning: #fab219;
+  --chart-critical: #d03b3b;
+  --chart-grid: #e1e0d9;
+  --chart-axis: #898781;
 
   --sans: system-ui, "Segoe UI", Roboto, sans-serif;
   --radius: 8px;
@@ -40,13 +54,27 @@
     --accent: #c084fc;
     --accent-bg: rgba(192, 132, 252, 0.15);
     --accent-border: rgba(192, 132, 252, 0.5);
-    --success: #4ade80;
-    --success-bg: rgba(74, 222, 128, 0.15);
-    --warning: #fbbf24;
-    --warning-bg: rgba(251, 191, 36, 0.15);
-    --danger: #f87171;
-    --danger-bg: rgba(248, 113, 113, 0.15);
+    --success: #0ca30c;
+    --success-bg: rgba(12, 163, 12, 0.18);
+    --warning: #fab219;
+    --warning-bg: rgba(250, 178, 25, 0.18);
+    --danger: #d03b3b;
+    --danger-bg: rgba(208, 59, 59, 0.18);
     --shadow: rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
+
+    --chart-series-1: #3987e5;
+    --chart-series-2: #199e70;
+    --chart-series-3: #c98500;
+    --chart-series-4: #008300;
+    --chart-series-5: #9085e9;
+    --chart-series-6: #e66767;
+    --chart-series-7: #d55181;
+    --chart-series-8: #d95926;
+    --chart-good: #0ca30c;
+    --chart-warning: #fab219;
+    --chart-critical: #d03b3b;
+    --chart-grid: #2c2c2a;
+    --chart-axis: #898781;
   }
 }
 
